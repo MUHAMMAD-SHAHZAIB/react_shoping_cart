@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Live Preview 
-https://shiny-pie-669552.netlify.app
+https://zaib-shopping.netlify.app
 
 ## Available Scripts
 
